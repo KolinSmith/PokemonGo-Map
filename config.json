@@ -1,0 +1,9 @@
+{
+	"auth_service": "ptc",
+	"username": "KolinSmith",
+	"password": "nilok9890",
+	"step_limit": 5,
+	"location": "1301 east arapaho rd, richardson, tx",
+	"notify": "scyther,vulpix,dratini,magnemite,magneton,electabuzz,magmar,hitmonchan,hitmonlee,chansey,lapras,snorlax,porygon,mew,mewtwo,moltres,zapdos,articuno,ditto,seel,gyarados,cubone,charmander,charmeleon,charizard,ghastly,haunter,gengar,onix,kadabra,alakazam,venusaur,blastoise",
+	"pushbullet": "o.6BTdl3kSpSmWeRU4sMEn2xfYHq5a60AW"
+}
